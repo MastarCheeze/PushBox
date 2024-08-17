@@ -1,0 +1,72 @@
+{
+  "ogmoVersion": "3.4.0",
+  "width": 512,
+  "height": 288,
+  "offsetX": 0,
+  "offsetY": 0,
+  "layers": [
+    {
+      "name": "entityLayer",
+      "_eid": "37289888",
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridCellWidth": 16,
+      "gridCellHeight": 16,
+      "gridCellsX": 32,
+      "gridCellsY": 18,
+      "entities": [
+        {"name": "wall", "id": 0, "_eid": "37291444", "x": 224, "y": 64, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 1, "_eid": "37291444", "x": 240, "y": 64, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 2, "_eid": "37291444", "x": 256, "y": 64, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 3, "_eid": "37291444", "x": 272, "y": 64, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 4, "_eid": "37291444", "x": 288, "y": 64, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 6, "_eid": "37291444", "x": 256, "y": 112, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 7, "_eid": "37291444", "x": 256, "y": 128, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 8, "_eid": "37291444", "x": 288, "y": 96, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 10, "_eid": "37291444", "x": 288, "y": 112, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 11, "_eid": "37291444", "x": 288, "y": 128, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 12, "_eid": "37291444", "x": 224, "y": 96, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 13, "_eid": "37291444", "x": 224, "y": 128, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 16, "_eid": "37291444", "x": 224, "y": 112, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 19, "_eid": "37291444", "x": 224, "y": 144, "originX": 0, "originY": 0},
+        {
+          "name": "piston",
+          "id": 20,
+          "_eid": "43508172",
+          "x": 304,
+          "y": 160,
+          "originX": 0,
+          "originY": 0,
+          "rotation": 180,
+          "values": {"groupId": 0, "inverted": false}
+        },
+        {"name": "box", "id": 21, "_eid": "37277666", "x": 272, "y": 144, "originX": 0, "originY": 0},
+        {
+          "name": "pistonbutton",
+          "id": 22,
+          "_eid": "43504131",
+          "x": 240,
+          "y": 96,
+          "originX": 0,
+          "originY": 0,
+          "values": {"groupId": 0}
+        },
+        {"name": "wall", "id": 23, "_eid": "37291444", "x": 224, "y": 160, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 25, "_eid": "37291444", "x": 240, "y": 192, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 26, "_eid": "37291444", "x": 256, "y": 192, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 27, "_eid": "37291444", "x": 272, "y": 192, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 28, "_eid": "37291444", "x": 288, "y": 160, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 29, "_eid": "37291444", "x": 288, "y": 160, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 30, "_eid": "37291444", "x": 288, "y": 192, "originX": 0, "originY": 0},
+        {"name": "boxslot", "id": 31, "_eid": "37277200", "x": 272, "y": 176, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 32, "_eid": "37291444", "x": 288, "y": 176, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 33, "_eid": "37291444", "x": 224, "y": 176, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 34, "_eid": "37291444", "x": 240, "y": 176, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 35, "_eid": "37291444", "x": 256, "y": 96, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 36, "_eid": "37291444", "x": 224, "y": 80, "originX": 0, "originY": 0},
+        {"name": "wall", "id": 37, "_eid": "37291444", "x": 288, "y": 80, "originX": 0, "originY": 0},
+        {"name": "player", "id": 38, "_eid": "37278417", "x": 240, "y": 128, "originX": 0, "originY": 0}
+      ]
+    }
+  ]
+}
